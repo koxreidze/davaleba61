@@ -1,0 +1,204 @@
+.search {
+	display: inline;
+}
+
+
+.search {
+	display: inline-block;
+	margin-left: 37px;
+	font-weight: 700;
+
+}
+
+body {
+	background: #f5f5f5;
+	  font-family: 'Roboto';
+}
+
+.bod1 {
+	margin-left: 75px;
+	margin-top: 21px;
+}
+
+.photos {
+	display: inline-block;
+	height: 186px;
+	width: 362px;
+	margin-left: 40px;
+	
+}
+
+.firstphoto {
+	display: inline-block;
+	height: 186px;
+	width: 362px;
+	margin-left: 71px;
+}
+
+.name{
+	font-weight: 700;
+	font-size: 24px;
+	margin-top: 42px;
+	margin-left: 70px;
+	display: inline-block;
+	margin-bottom: 27px;
+
+}
+
+.name1 {
+	font-weight: 700;
+	font-size: 24px;
+	margin-top: 42px;
+	margin-left: 70px;
+	display: inline-block;
+	
+}
+
+
+.firstone{
+display: inline-block;
+	margin-left: 70px;	
+	font-size: 10px;
+	background: white;
+	padding: 68px 86px 67px 37px;
+	height: 36px;
+	width: 238px;
+	font-weight: 700;
+	color:#8A8787; 
+          
+
+
+}
+.article {
+	display: inline-block;
+	margin-left: 40px;	
+	font-size: 10px;
+	background: white;
+	padding: 68px 86px 67px 37px;
+	height: 36px;
+	width: 238px;
+	font-weight: 700;
+	color: 
+#8A8787;
+
+}
+
+.clock {
+	margin-top: 10px;
+}
+
+.time {
+	display: inline-block;
+	margin-left: 11px;
+	margin-bottom: 99px;
+	position: absolute;
+	top: 421px;
+	right: ;
+
+
+}
+
+.roundphoto {
+	display: inline-block;
+	position: absolute;
+	left: 585px;
+	bottom: 715px;
+
+}
+.inside {
+	position: absolute;
+	color: white;
+	left: 185px;
+	bottom: 575px;
+}
+
+.inside1 {
+    position: absolute;
+	color: white;
+	left: 585px;
+	bottom: 575px;
+}
+
+.inside2 {
+	position: absolute;
+	color: white;
+	left: 995px;
+	bottom: 575px;
+}
+
+	
+
+.newphotos {
+	display: inline-block;
+}
+
+.main {
+	width: 758px;
+	height: 430px;
+	margin-left: 70px;
+	display: inline-block;
+	margin-top: 42px;
+
+}
+
+.insidemain {
+
+}
+
+.firstsub {
+	display: inline-block;
+   
+	vertical-align: top;
+	margin-top: 40px;
+	margin-left: 45px;
+	position: relative;
+	left: px;
+	
+}
+
+.secondsub {
+	display: inline-block;
+    bottom: 350px;
+	vertical-align: ;
+	
+	margin-left: 45px;
+	position: relative;
+	
+}
+
+.sub {
+	display: inline-block; 
+	margin-left: px;
+	position: absolute;
+	top: 1290px;
+	right: 220px;
+	
+}
+
+.bottom {
+	display: inline-block;
+}
+
+.end {
+	background: #243043;
+	padding-top: 59px;
+	padding-bottom: 128px;
+	padding-left: 1325px;
+	padding-right: 180px;	
+	margin-top: 95px;
+	color: #FFFFFF;
+	font-size: 12px;
+	margin-bottom: 51px;
+	position: sticky;
+	vertical-align: right-middle;
+	float: right;
+}
+
+.lasttext {
+	position: absolute;
+	top: 1670px;
+	left: 590px;
+	color: white;
+	font-size: 12px;
+}
+
